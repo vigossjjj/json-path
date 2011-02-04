@@ -1,13 +1,18 @@
-#summary One-sentence summary of this page.
+The source code is hosted at [http://www.github.com github].
 
-= Introduction =
+== Read Access ==
 
-Add your content here.
+To check out a copy of the source code for yourself:
+
+git clone git://github.com/jayway/JsonPath.git
 
 
-= Details =
+== Commit Access ==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Via github Anybody can join in!
+
+And anybody can submit code through github!
+
+  # Go to http://github.com/jayway/JsonPath and fork the project. Forking a source code repository is sooo easy on github!
+  # Do your changes in your clone of the project,
+  # then click "pull request" on your repository to tell "kallestenflo" there are changes to bring in.
