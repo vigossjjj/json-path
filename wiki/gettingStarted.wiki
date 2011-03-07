@@ -2,7 +2,7 @@
 
 ==Maven users==
 
-===`JsonPath`===
+`JsonPath`
 
 {{{
 <dependency>
@@ -12,7 +12,7 @@
 </dependency>
 }}}
 
-===JsonAssert===
+`JsonAssert`
 
 {{{
 <dependency>
