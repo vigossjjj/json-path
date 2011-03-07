@@ -2,7 +2,7 @@
 
 ==Maven users==
 
-===JsonPath===
+===`JsonPath`===
 
 {{{
 <dependency>
