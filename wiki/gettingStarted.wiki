@@ -1,0 +1,23 @@
+#summary One-sentence summary of this page.
+
+=Installation=
+
+==Maven users==
+
+JsonPath
+{{{
+<dependency>
+    <groupId>com.jayway.jsonpath</groupId>
+    <artifactId>json-path</artifactId>
+    <version>0.5.3</version>
+</dependency>
+}}}
+
+JsonAssert
+{{{
+<dependency>
+    <groupId>com.jayway.jsonpath</groupId>
+    <artifactId>json-path-assert</artifactId>
+    <version>0.5.3</version>
+</dependency>
+}}}
