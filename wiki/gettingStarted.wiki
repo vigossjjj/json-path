@@ -5,6 +5,7 @@
 ==Maven users==
 
 JsonPath
+
 {{{
 <dependency>
     <groupId>com.jayway.jsonpath</groupId>
@@ -14,6 +15,7 @@ JsonPath
 }}}
 
 JsonAssert
+
 {{{
 <dependency>
     <groupId>com.jayway.jsonpath</groupId>
