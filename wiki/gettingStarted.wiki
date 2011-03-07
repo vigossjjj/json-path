@@ -1,10 +1,8 @@
-#summary One-sentence summary of this page.
-
 =Installation=
 
 ==Maven users==
 
-JsonPath
+===JsonPath===
 
 {{{
 <dependency>
@@ -14,7 +12,7 @@ JsonPath
 </dependency>
 }}}
 
-JsonAssert
+===JsonAssert===
 
 {{{
 <dependency>
